@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dfb287f.css",
-    "main.js": "/static/js/main.f9c43608.js",
-    "static/media/googleLogo.png": "/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
-    "index.html": "/index.html",
-    "main.6dfb287f.css.map": "/static/css/main.6dfb287f.css.map",
-    "main.f9c43608.js.map": "/static/js/main.f9c43608.js.map"
+    "main.css": "/E-Commerce-Website/static/css/main.67c91288.css",
+    "main.js": "/E-Commerce-Website/static/js/main.707befa9.js",
+    "static/media/googleLogo.png": "/E-Commerce-Website/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/E-Commerce-Website/index.html",
+    "main.67c91288.css.map": "/E-Commerce-Website/static/css/main.67c91288.css.map",
+    "main.707befa9.js.map": "/E-Commerce-Website/static/js/main.707befa9.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dfb287f.css",
-    "static/js/main.f9c43608.js"
+    "static/css/main.67c91288.css",
+    "static/js/main.707befa9.js"
   ]
 }
