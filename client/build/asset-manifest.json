@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sonamyadav6942/Bazaar/static/css/main.6dfb287f.css",
-    "main.js": "/sonamyadav6942/Bazaar/static/js/main.033d127c.js",
-    "static/media/googleLogo.png": "/sonamyadav6942/Bazaar/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
-    "index.html": "/sonamyadav6942/Bazaar/index.html",
-    "main.6dfb287f.css.map": "/sonamyadav6942/Bazaar/static/css/main.6dfb287f.css.map",
-    "main.033d127c.js.map": "/sonamyadav6942/Bazaar/static/js/main.033d127c.js.map"
+    "main.css": "/static/css/main.67c91288.css",
+    "main.js": "/static/js/main.71ad23fd.js",
+    "static/media/googleLogo.png": "/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/index.html",
+    "main.67c91288.css.map": "/static/css/main.67c91288.css.map",
+    "main.71ad23fd.js.map": "/static/js/main.71ad23fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dfb287f.css",
-    "static/js/main.033d127c.js"
+    "static/css/main.67c91288.css",
+    "static/js/main.71ad23fd.js"
   ]
 }
