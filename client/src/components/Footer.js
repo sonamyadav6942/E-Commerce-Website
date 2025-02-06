@@ -14,7 +14,7 @@ import { logoLight, paymentLogo } from "../assets";
 const Footer = () => {
   return (
     <div className="bg-black text-[#949494] py-20 font-titleFont">
-      <div className="max-w-screen-xl mx-auto grid grid-cols-4 gap-6">
+    <div className="max-w-screen-xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
         {/* Logo and Social Links */}
         <div className="flex flex-col gap-7">
           <img className="w-32" src={logoLight} alt="logoLight" />
